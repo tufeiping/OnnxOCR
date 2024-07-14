@@ -1,6 +1,6 @@
 import cv2
 import time
-from onnxocr.onnx_paddleocr import ONNXPaddleOcr,sav2Img
+from onnxocr.onnx_paddleocr import ONNXPaddleOcr, sav2Img
 import sys
 #固定到onnx路径·
 # sys.path.append('./paddle_to_onnx/onnx')

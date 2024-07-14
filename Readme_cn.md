@@ -10,6 +10,9 @@ PPOCRv4模型转onnx模型推理，精度和性能更高，推理速度比使用
 3.在同样性能的计算机上推理速度加速了4-5倍。
 
 #### 二.环境安装
+
+补充的构建信息可以参考 [部署构建文档](./BUILD.md)
+
     python>=3.6
 
     pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements.txt
